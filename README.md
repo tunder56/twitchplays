@@ -19,6 +19,8 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 p.s you can use the chat box in stream manager to test if the program is running correctly
 
+feel free to modify as needed
+
 
 
 
