@@ -28,7 +28,7 @@ feel free to modify as needed as well as pull requests etc
 
 
 
-### profile explinations
+## profile explinations
 
 defult is a bunch of standed commands
 
