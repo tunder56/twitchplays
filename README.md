@@ -13,6 +13,8 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 
 
+
+
 ### the program will be installed in C:/twitchplays
 3. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
     this will :
@@ -30,7 +32,7 @@ p.s you can use the chat box in stream manager to test if the program is running
 
 
 
-
+## the socrce code is in the code stuff folder of the repo
 
 
 ## profile explinations
