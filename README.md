@@ -23,7 +23,7 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 p.s you can use the chat box in stream manager to test if the program is running correctly
 
-feel free to modify as needed as well as pull requests etc
+
 
 
 
@@ -43,6 +43,12 @@ open world is a bunch generic openworld things such as camera movement etc
 __use the file called runtwitchplays1.ps1 after set up/first use__
 
 
+
+#disclaimers 
+
+if you install from github you will need to change the .ps1 files so that they fit to your computor
+
+this is a work in progress feel free to modify as needed as well as pull requests etc
 
 
 
