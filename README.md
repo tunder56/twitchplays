@@ -11,6 +11,9 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 2. download and run the file called twitch plays installer from the git
 
+
+
+### the program will be installed in C:/twitchplays
 3. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
     this will :
     1. set up a conda enviroment
