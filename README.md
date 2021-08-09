@@ -7,7 +7,7 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 ### installation
 
-1. install the latest version of conda from here https://conda.io/miniconda.html
+1. install the latest version of conda from here https://conda.io/miniconda.html, leave all options as defult
 
 2. download and run the file called twitch plays installer from the git
 
