@@ -1,0 +1,49 @@
+defult commands
+
+left = a
+
+right = d
+
+inventory / menu = e
+
+1 = 1
+
+2 = 2
+
+3 = 3
+
+4 = 4
+
+5 = 5
+
+6 = 6
+
+7 = 7
+
+8 = 8
+
+9 = 9
+
+run = hold w still stop or back is given
+
+sprint = hold left control while running
+
+back = relases w and left control and presses s 
+
+stop = releases w and s
+
+jump = sapcebar
+
+hit = left click 
+
+place = right click
+
+aim up = aim up 200px
+
+aim down = aim down 200px
+
+aim left = aim left 200px
+
+aim right = aim right 200px
+
+turn around = aim right 1600px

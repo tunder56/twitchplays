@@ -1,0 +1,47 @@
+destiny / fps commands
+
+left = a
+
+right = d
+
+interact / talk = e
+
+1 = 1
+
+2 = 2
+
+3 = 3
+
+class ablity = v
+
+grenade = q
+
+melee = c
+
+super / crutch = f
+
+crouch / stealth mode activate = left control hold
+
+uncrouch / stealth mode deactivate = relese left control
+
+run = hold w still stop or back is given
+
+sprint = hold shift while running
+
+back = relases w and presses s 
+
+stop = releases w and s
+
+jump = sapcebar
+
+hit = left click 
+
+right click = right click
+
+aim up = aim up 200px
+
+aim down = aim down 200px
+
+aim left = aim left 200px
+
+aim right = aim right 200px

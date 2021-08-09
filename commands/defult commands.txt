@@ -1,0 +1,39 @@
+defult commands
+
+left = a
+
+right = d
+
+inventory / menu = e
+
+1 = 1
+
+2 = 2
+
+3 = 3
+
+4 = 4
+
+5 = 5
+
+6 = 6
+
+7 = 7
+
+8 = 8
+
+9 = 9
+
+run = hold w still stop or back is given
+
+sprint = hold shift while running
+
+back = relases w and presses s 
+
+stop = releases w and s
+
+jump = sapcebar
+
+hit = left click 
+
+right click = right click
