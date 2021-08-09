@@ -12,14 +12,18 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 2. download and run the file called twitch plays installer from the git
 
 3. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
-    this will set up a conda enviroment and run the program within it 
+    this will :
+    1. set up a conda enviroment
+    2. install the packages needed to run, they are pyautogui and pynput
+    3. and run the program within it 
+
 
 3. follow the instuctions in the program
    you should be good to go 
 
 p.s you can use the chat box in stream manager to test if the program is running correctly
 
-feel free to modify as needed
+feel free to modify as needed as well as pull requests etc
 
 
 
