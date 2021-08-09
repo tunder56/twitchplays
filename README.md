@@ -21,6 +21,8 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 3. follow the instuctions in the program
    you should be good to go 
 
+### if it crashes check your auth token and name 
+
 p.s you can use the chat box in stream manager to test if the program is running correctly
 
 
