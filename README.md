@@ -5,9 +5,43 @@ some twitch plays code
 i decied to try to make the code for twitch plays simpler and esier to run, this is a wip so feel free to add to it as you want
 
 
-installation
+### installation
 
-everything needs to be in the same folder if downloading from git,
-pyautogui will also need to be installed along with pyput
+1. install the latest version of conda from here https://conda.io/miniconda.html
 
-full credit to doug doug for most if not all the code, i tried to make a launcher thing to make the process a bit more streamlined to the averange user
+2. download and run the file called twitch plays installer from the git
+
+3. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
+    this will set up a conda enviroment and run the program within it 
+
+3. follow the instuctions in the program
+   you should be good to go 
+
+p.s you can use the chat box in stream manager to test if the program is running correctly
+
+
+
+
+### profile explinations
+
+defult is a bunch of standed commands
+
+destiny is based of destiny 2 but is more or less a generic fps
+
+minecraft does what its says on the tin
+
+open world is a bunch generic openworld things such as camera movement etc
+
+
+
+__use the file called runtwitchplays1.ps1 after set up/first use__
+
+
+
+
+
+
+## credits
+full credit to doug doug for most if not all the code, as well as insperation
+
+i tried to make a launcher thing to make the process a bit more streamlined to the averange user, 
