@@ -64,7 +64,7 @@ if gameselect == 3 and gamerunning == 0:
         gamerunning = 1
 
 if gameselect == 4 and gamerunning == 0:
-        execfile('C:/twitchplaysTwitchPlaysopenworldgames.py')
+        execfile('C:/twitchplays/TwitchPlaysopenworldgames.py')
         print("running open world twitch plays profile")
         gamerunning = 1
 
