@@ -48,7 +48,7 @@ while gamerunning == 0:
 
  
 if gameselect == 1 and gamerunning == 0:
-        execfile('C:/twitchplaysTwitchPlaysdefult.py')
+        execfile('C:/twitchplays/TwitchPlaysdefult.py')
         print("running defult twitch plays profile")
         gamerunning = 1
         
@@ -64,12 +64,12 @@ if gameselect == 3 and gamerunning == 0:
         gamerunning = 1
 
 if gameselect == 4 and gamerunning == 0:
-        execfile('C:/code/twitchplayer/TwitchPlaysopenworldgames.py')
+        execfile('C:/twitchplaysTwitchPlaysopenworldgames.py')
         print("running open world twitch plays profile")
         gamerunning = 1
 
 if gameselect == 5 and gamerunning == 0:
-        execfile('C:/twitchplaysTwitchPlaysdestiny.py')
+        execfile('C:/twitchplays/TwitchPlaysdestiny.py')
         print("running destiny twitch plays profile")
         gamerunning = 1;   
 
