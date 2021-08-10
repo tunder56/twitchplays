@@ -4,5 +4,11 @@ conda activate twitchplays27
 pip install pyautogui
 pip install pynput
 Set-Location $home
-/../miniconda3/envs/twitchplays27/python.exe c:/twitchplays/slectgame.py 
-
+Set-ExecutionPolicy Unrestricted -Scope LocalMachine
+try {
+    & /../miniconda3/envs/twitch27/python.exe C:/code/twitchplayer/slectgame.py
+    C:\ProgramData\Miniconda3\envs\twitchplays27\python.exe  c:/twitchplays/slectgame.py
+}
+catch {
+    Write-Host "Error occured check your file paths" -BackgroundColor Darkred
+}
