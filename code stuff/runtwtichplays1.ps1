@@ -1,5 +1,5 @@
 Set-Location C:\code\twitchplayer
-conda activate twitchtestv4
+conda activate twitch27
 Set-Location $home
-& /../miniconda3/envs/twitchtestv4/python.exe C:/code/twitchplayer/slectgame.py
+& /../miniconda3/envs/twitch27/python.exe C:/twitchplays/slectgame.py
 
