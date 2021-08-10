@@ -11,19 +11,20 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 2. download and run the file called twitch plays installer from the git, it may say that its virus, it isnt
 
+3. run Anaconda Powershell Prompt (miniconda3), it should be in your resently installed files
 
-
-
+4. run the command `conda init powershell` inside of it
 
 ### the program will be installed in C:/twitchplays
-3. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
+5. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
     this will :
     1. set up a conda enviroment
-    2. install the packages needed to run, they are pyautogui and pynput
-    3. and run the program within it 
+    2. set the restricted policy to allow the script to run, select y to let the scrpit run
+    3. install the packages needed to run, they are pyautogui and pynput
+    4. and run the program within it 
 
 
-3. follow the instuctions in the program
+6. follow the instuctions in the program
    you should be good to go 
 
 ### if it crashes check your auth token and name 
