@@ -6,7 +6,7 @@ pip install pynput
 Set-Location $home
 Set-ExecutionPolicy Unrestricted -Scope LocalMachine
 try {
-    & /../miniconda3/envs/twitch27/python.exe C:/code/twitchplayer/slectgame.py
+    & /../miniconda3/envs/twitch27/python.exe C:/twitchplays/slectgame.py
     C:\ProgramData\Miniconda3\envs\twitchplays27\python.exe  c:/twitchplays/slectgame.py
 }
 catch {
