@@ -16,7 +16,7 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 4. run the command `conda init powershell` inside of it
 
 ### the program will be installed in C:/twitchplays
-5. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1
+5. run the file called FIRST_TIME_SETUP_runtwtichplays.ps1 , you will need to right click then go run with powershell
     this will :
     1. set up a conda enviroment
     2. set the restricted policy to allow the script to run, select y to let the scrpit run
@@ -51,6 +51,11 @@ open world is a bunch generic openworld things such as camera movement etc
 __use the file called runtwitchplays1.ps1 after set up/first use__
 
 
+#Errors
+there are many errors at the moment, if you get one refer to blelow for fixes / work arounds
+    - if you run either of the .ps1 files and it crashes without doing anything, try copy pasting each line of the command into powershell to see what went wrong
+    - check that conda is runnning nativly in powershell
+    - check file paths of your conda enviroment etc
 
 #disclaimers 
 
