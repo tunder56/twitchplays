@@ -31,6 +31,13 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 p.s you can use the chat box in stream manager to test if the program is running correctly
 
+# Errors
+there are many errors at the moment, refer to below for fixes / work arounds
+
+    - if either of the .ps1 files crash try copy pasting them line by line to locate the error
+    - check that conda is running correctly and nativly in powershell
+    - check thaat the resticted policy is set to un rescrited 
+    - check that the file paths are correct
 
 
 ## the socrce code is in the code stuff folder of the repo
