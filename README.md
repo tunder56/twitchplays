@@ -10,8 +10,9 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 ###path 1
 1. download and extract the repo
 2. install dependiences and python
-3. run slectgame.py
-4. follow the instuctions in the program
+3. make sure that the file called twitch plays connection is in the same folder as slectgame.py
+4. run slectgame.py
+5. follow the instuctions in the program
    you should be good to go 
    
 ###path 2 
