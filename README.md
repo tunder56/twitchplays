@@ -9,14 +9,15 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 ###path 1
 1. download and extract the repo
-2. run slectgame.exe inside the slect game folder
-3. follow the instuctions in the program
+2. install dependiences and python
+3. run slectgame.py
+4. follow the instuctions in the program
    you should be good to go 
    
 ###path 2 
 1. download the twitchplays.exe this is an inno setup installer to install all dependecies etc
 2. run twitchplays.exe
-3. run slectgame.exe 
+3. run slectgame.exe inside the slect game folder 
 4. follow programs intructions
 
 ### if it crashes check your auth token and name 
