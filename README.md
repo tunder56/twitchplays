@@ -34,10 +34,6 @@ there are many errors at the moment, refer to below for fixes / work arounds
 
     -N/a please report them if you find them
 
-
-## the socrce code is in the code stuff folder of the repo
-
-
 ## profile explinations
 
 defult is a bunch of standed commands
