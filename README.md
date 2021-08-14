@@ -57,6 +57,8 @@ __use the file called runtwitchplays1.ps1 after set up/first use__
 
 this is a work in progress feel free to modify as needed as well as pull requests etc
 
+im not able to put up the native exe as it has a whole bunch of .dll etc (over 100 for some reason) thus the installer script was the next best option
+
 
 
 
