@@ -7,15 +7,26 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 ### installation
 
+###path 1
 1. download and extract the repo
-2. run slectgame.exe
-
-6. follow the instuctions in the program
+2. run slectgame.exe inside the slect game folder
+3. follow the instuctions in the program
    you should be good to go 
+   
+###path 2 
+1. download the twitchplays.exe this is an inno setup installer to install all dependecies etc
+2. run twitchplays.exe
+3. run slectgame.exe 
+4. follow programs intructions
 
 ### if it crashes check your auth token and name 
 
 p.s you can use the chat box in stream manager to test if the program is running correctly
+
+
+## depndencies
+this program uses python 3.8, pynput and pyautogui
+
 
 # Errors
 there are many errors at the moment, refer to below for fixes / work arounds
