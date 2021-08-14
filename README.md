@@ -7,7 +7,7 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 
 ### installation
 
-###path 1
+### path 1
 1. download and extract the repo
 2. install dependiences and python
 3. make sure that the file called twitch plays connection is in the same folder as slectgame.py
@@ -15,7 +15,7 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
 5. follow the instuctions in the program
    you should be good to go 
    
-###path 2 
+### path 2 
 1. download the twitchplays.exe this is an inno setup installer to install all dependecies etc
 2. run twitchplays.exe
 3. run slectgame.exe inside the slect game folder 
