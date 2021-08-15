@@ -16,8 +16,8 @@ i decied to try to make the code for twitch plays simpler and esier to run, this
    you should be good to go 
    
 ### path 2 
-1. download the twitchplays.exe this is an inno setup installer to install all dependecies etc
-2. run twitchplays.exe
+1. download the twitchplays setup.exe this is an inno setup installer to install all dependecies etc
+2. run twitchplays setup.exe
 3. run slectgame.exe inside the slect game folder 
 4. follow programs intructions
 
